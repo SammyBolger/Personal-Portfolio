@@ -9,17 +9,17 @@ A modern personal portfolio website showcasing my all my work and projects, and 
 ## Screenshots
 
 ## Home
-![Home](./resources/home.png)
+![Home](./screenshots/home.png)
 
 ---
 
 ## Skills
-![Skills](./resources/skills.png)
+![Skills](./screenshots/skills.png)
 
 ---
 
 ## Projects
-![Projects](./resources/project.png)
+![Projects](./screenshots/project.png)
 
 ---
 
